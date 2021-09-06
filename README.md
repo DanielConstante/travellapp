@@ -1,11 +1,12 @@
 # travellapp
-![Splash](https://user-images.githubusercontent.com/83243083/132146438-912b40c7-d36b-4e67-9732-b26a2645a777.png)
-![OnBoardComponent](https://user-images.githubusercontent.com/83243083/132146443-977bc517-c7d3-43aa-b707-8259701d297d.png)
-![HomeComponent](https://user-images.githubusercontent.com/83243083/132146444-00742262-c2d6-4a4d-9018-985c35afa217.png)
-![HomeComponent2](https://user-images.githubusercontent.com/83243083/132146449-74d36dc2-fb83-4d7d-b25c-cebf814d9a47.png)
-![DetailComponent](https://user-images.githubusercontent.com/83243083/132146452-cb9095fc-2885-48ac-827f-ac08b44cfe86.png)
-![ContactComponent](https://user-images.githubusercontent.com/83243083/132146453-90accc53-6a32-48aa-ba25-333cdbb50ac8.png)
-![LoginComponent](https://user-images.githubusercontent.com/83243083/132146457-7060dfd7-dfe7-43be-a443-8290d210292d.png)
-![RegisterComponent](https://user-images.githubusercontent.com/83243083/132146459-f10a6cb1-8f98-4206-b72e-4da93832879d.png)
-![BookingComponent](https://user-images.githubusercontent.com/83243083/132146461-957e5027-1956-4a8e-8ece-a891ff693334.png)
+![Splash](https://user-images.githubusercontent.com/83243083/132146578-6520966e-68f8-4f93-9c1e-ef966d437a75.png)
+![OnBoardComponent](https://user-images.githubusercontent.com/83243083/132146582-78b5dd9c-1cb0-4439-ad22-8ff528d7d4d0.png)
+![HomeComponent](https://user-images.githubusercontent.com/83243083/132146587-b78f6ddb-e258-4f21-80b6-2ff4a18c9f8c.png)
+![HomeComponent2](https://user-images.githubusercontent.com/83243083/132146589-437f01d4-c5ca-46c2-9e77-e9f4e0ef4853.png)
+![DetailComponent](https://user-images.githubusercontent.com/83243083/132146593-2670d7a8-2c86-47d7-a2f4-dd782fe35500.png)
+![ContactComponent](https://user-images.githubusercontent.com/83243083/132146595-018d04e1-e70f-4d58-8ea2-b0684bc5e57d.png)
+![LoginComponent](https://user-images.githubusercontent.com/83243083/132146597-e7e7a6a0-7341-4d8f-ad81-577f1f90a0f7.png)
+![RegisterComponent](https://user-images.githubusercontent.com/83243083/132146599-b726d719-c31c-421e-b51a-20c4a8c0ad8c.png)
+![BookingComponent](https://user-images.githubusercontent.com/83243083/132146602-aeb89f59-9f5d-4954-8224-1836b9578a95.png)
+
 
